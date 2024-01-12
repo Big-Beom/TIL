@@ -4,3 +4,7 @@
 <brl>
 
 [노션](https://www.notion.so/53dfda3d412b4e688531b12ed5f64dea?v=1411c44dc3e1471a8752700274cabf1d&pvs=4)
+
+<brl>
+
+![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
